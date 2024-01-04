@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  background-color: #131a22;
+}
+.logo_areya {
+  margin-left: 15px;
+}
+
+.box {
+  font-size: small;
+  margin-left: 22px;
+  color: #dddd;
+}
+.box1 {
+  font-weight: bold;
+  color: white;
+}
+.fa-solid {
+  font-size: 21px;
+}
+.delever_areya {
+  margin-left: 10px;
+}
+#selected {
+  height: 40px;
+  margin-left: 20px;
+  padding: 0 10px;
+}
+.Search {
+  height: 40px;
+  width: 34rem;
+  border: none;
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+.scletr {
+  display: flex;
+  align-items: center;
+}
+.glass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 40px;
+  background-color: #febd69;
+}
+.flog {
+  display: flex;
+  align-items: center;
+  margin-left: 16px;
+}
+.flag_img {
+  height: 25px;
+  width: 28px;
+}
+#english {
+  color: white;
+  background-color: #131a22;
+  border: none;
+  font-size: 17px;
+}
+.sining_areya {
+  margin-left: 15px;
+}
+.sing {
+  color: white;
+}
+.Account {
+  font-weight: bold;
+  color: white;
+}
+.returns {
+  font-size: 12px;
+  color: white;
+}
+.order {
+  font-weight: bold;
+  color: white;
+}
+.order_areya {
+  margin-left: 16px;
+}
+
+.cart {
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.fa-cart-shopping {
+  font-size: 38px;
+  color: white;
+}
+.carted {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+}
